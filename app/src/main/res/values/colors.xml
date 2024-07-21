@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#1FC57A</color>
+    <color name="startColor">#3B7A53</color>
+    <color name="endColor">#15BE77</color>
+    <color name="iconColor">#1463A1</color>
+    <color name="backiconColor">#F1EADE</color>
+    <color name="backiconColor2">#C4D8E8</color>
+    <color name="backcolourmain">#DC9AB1</color>
+
+</resources>
